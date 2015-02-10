@@ -3,9 +3,9 @@
 one:
   username: MyString
   email: MyString
-  dob: MyString
+  dob: 2015-02-09
 
 two:
   username: MyString
   email: MyString
-  dob: MyString
+  dob: 2015-02-09
